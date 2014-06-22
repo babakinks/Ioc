@@ -1,0 +1,17 @@
+C:\Users\Agent\Documents\Visual Studio 2013\Projects\MVCEssentialTools\EssentialTools\EssentialMVCTools\MVCEssentialsTools\Ioc\EssentialTools.Test\bin\Debug\EssentialTools.Test.dll
+C:\Users\Agent\Documents\Visual Studio 2013\Projects\MVCEssentialTools\EssentialTools\EssentialMVCTools\MVCEssentialsTools\Ioc\EssentialTools.Test\bin\Debug\EssentialTools.Test.pdb
+C:\Users\Agent\Documents\Visual Studio 2013\Projects\MVCEssentialTools\EssentialTools\EssentialMVCTools\MVCEssentialsTools\Ioc\EssentialTools.Test\bin\Debug\EssentialTools.dll
+C:\Users\Agent\Documents\Visual Studio 2013\Projects\MVCEssentialTools\EssentialTools\EssentialMVCTools\MVCEssentialsTools\Ioc\EssentialTools.Test\bin\Debug\Ninject.dll
+C:\Users\Agent\Documents\Visual Studio 2013\Projects\MVCEssentialTools\EssentialTools\EssentialMVCTools\MVCEssentialsTools\Ioc\EssentialTools.Test\bin\Debug\System.Web.Http.dll
+C:\Users\Agent\Documents\Visual Studio 2013\Projects\MVCEssentialTools\EssentialTools\EssentialMVCTools\MVCEssentialsTools\Ioc\EssentialTools.Test\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Agent\Documents\Visual Studio 2013\Projects\MVCEssentialTools\EssentialTools\EssentialMVCTools\MVCEssentialsTools\Ioc\EssentialTools.Test\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Agent\Documents\Visual Studio 2013\Projects\MVCEssentialTools\EssentialTools\EssentialMVCTools\MVCEssentialsTools\Ioc\EssentialTools.Test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Agent\Documents\Visual Studio 2013\Projects\MVCEssentialTools\EssentialTools\EssentialMVCTools\MVCEssentialsTools\Ioc\EssentialTools.Test\bin\Debug\EssentialTools.pdb
+C:\Users\Agent\Documents\Visual Studio 2013\Projects\MVCEssentialTools\EssentialTools\EssentialMVCTools\MVCEssentialsTools\Ioc\EssentialTools.Test\bin\Debug\Ninject.xml
+C:\Users\Agent\Documents\Visual Studio 2013\Projects\MVCEssentialTools\EssentialTools\EssentialMVCTools\MVCEssentialsTools\Ioc\EssentialTools.Test\bin\Debug\System.Web.Http.xml
+C:\Users\Agent\Documents\Visual Studio 2013\Projects\MVCEssentialTools\EssentialTools\EssentialMVCTools\MVCEssentialsTools\Ioc\EssentialTools.Test\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Agent\Documents\Visual Studio 2013\Projects\MVCEssentialTools\EssentialTools\EssentialMVCTools\MVCEssentialsTools\Ioc\EssentialTools.Test\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Agent\Documents\Visual Studio 2013\Projects\MVCEssentialTools\EssentialTools\EssentialMVCTools\MVCEssentialsTools\Ioc\EssentialTools.Test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Agent\Documents\Visual Studio 2013\Projects\MVCEssentialTools\EssentialTools\EssentialMVCTools\MVCEssentialsTools\Ioc\EssentialTools.Test\obj\Debug\EssentialTools.Test.csprojResolveAssemblyReference.cache
+C:\Users\Agent\Documents\Visual Studio 2013\Projects\MVCEssentialTools\EssentialTools\EssentialMVCTools\MVCEssentialsTools\Ioc\EssentialTools.Test\obj\Debug\EssentialTools.Test.dll
+C:\Users\Agent\Documents\Visual Studio 2013\Projects\MVCEssentialTools\EssentialTools\EssentialMVCTools\MVCEssentialsTools\Ioc\EssentialTools.Test\obj\Debug\EssentialTools.Test.pdb

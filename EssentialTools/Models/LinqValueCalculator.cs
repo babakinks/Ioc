@@ -7,9 +7,15 @@ namespace EssentialTools.Models
 {
     public class LinqValueCalculator: IValueConverter
     {
+        private IDiscountHelper discounter;
+
+        public LinqValueCalculator(IDiscountHelper discountParam)
+        {
+            discounter = discountParam;
+        }
         public decimal ValueProducts(IEnumerable<Product> products)
         {
-            return products.Sum(p => p.Price);
+            return discounter.ApplyDiscount(products.Sum(p => p.Price));
         }
     }
 }

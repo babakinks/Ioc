@@ -17,13 +17,20 @@ namespace EssentialTools.Controllers
             new Product {Name = "Soccer ball", Category = "Soccer", Price = 19.5M},
             new Product {Name = "Corner Flag", Category = "Soccer", Price = 35.4M}
         };
+
+        private IValueConverter calc;
+
+        public HomeController(IValueConverter calcParam)
+        {
+            calc = calcParam;
+        }
         public ActionResult Index()
         {
-            IKernel ninjectKernel = new StandardKernel();
-            ninjectKernel.Bind<IValueConverter>().To<LinqValueCalculator>();
+            //IKernel ninjectKernel = new StandardKernel();
+            //ninjectKernel.Bind<IValueConverter>().To<LinqValueCalculator>();
 
-            //IValueConverter calc = new LinqValueCalculator();
-            IValueConverter calc = ninjectKernel.Get<IValueConverter>();
+            ////IValueConverter calc = new LinqValueCalculator();
+            //IValueConverter calc = ninjectKernel.Get<IValueConverter>();
 
             ShoppingCart cart = new ShoppingCart(calc) {Products = products};
             decimal totalValue = cart.CalculateProductTotal();
